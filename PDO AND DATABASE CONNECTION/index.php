@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h3>Signup</h3>
+    <h3>Signup</h3> 
 
     <form action="includes/formhandler.inc.php" method="post">
         <input type="text" name="username" placeholder="Username">
@@ -32,6 +32,13 @@
     <input type="text" name="username" placeholder="Username">
     <input type="password" name="pwd" placeholder="Password">
     <button>Delete</button>
+</form>
+
+<br><br>
+<form action="search.php" method="post">
+    <label for="search">Search for user:</label>
+    <input type="text" name="usersearch" placeholder="Search...">
+    <button>Search</button>
 </form>
 
 </body>
