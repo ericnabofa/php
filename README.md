@@ -1,4 +1,4 @@
-# PHP Repository: Eric Nabofa's PHP Projects
+# Secure PHP Application Suite
 
 This repository contains various PHP projects that explore and demonstrate fundamental concepts of PHP programming, including database connections, secure user authentication, session management, and CRUD operations.
 
